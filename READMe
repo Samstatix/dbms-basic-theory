@@ -1,1 +1,113 @@
-shfdshdfghd
+# DBMS Basic Theory
+
+A comprehensive collection of Database Management System theory notes and learning materials.
+
+## This repository contains organized notes and documentation on DBMS fundamentals. Topics are structured for easy navigation and reference.
+
+## 📖 Topics
+
+### 1. Fundamentals
+- What is Data?
+- What is a Database?
+- Database Functionality
+- Database Characteristics
+
+### 2. SQL Basics
+- Introduction to SQL
+- SELECT Queries
+- INSERT, UPDATE, DELETE
+- Joins and Subqueries
+
+### 3. Database Design
+- ER Diagrams
+- Schema Design
+- Relationships
+
+### 4. Normalization
+- First Normal Form (1NF)
+- Second Normal Form (2NF)
+- Third Normal Form (3NF)
+- BCNF
+
+### 5. Transactions & Concurrency
+- ACID Properties
+- Transaction Management
+- Concurrency Control
+- Deadlocks
+
+### 6. Advanced Topics
+- Indexing
+- Query Optimization
+- Security
+- Backup & Recovery
+
+
+
+## 📂 Repository Structure
+
+```
+dbms-basic-theory/
+├── README.md                          # This file
+├── fundamentals/                      # Basic DBMS concepts
+├── sql-basics/                        # SQL queries and syntax
+├── database-design/                   # ER diagrams, schemas
+├── normalization/                     # Normal forms
+├── transactions/                      # ACID, concurrency
+└── examples/                          # Code examples and queries
+```
+
+---
+
+## 🎯 How to Use This Repository
+
+1. **Browse by Topic**: Navigate to the folder for the concept you want to learn
+2. **Follow Along**: Topics are organized in logical learning order
+
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+**How to contribute:**
+1. Fork this repository
+2. Add your notes or improvements
+3. Submit a pull request
+
+**Guidelines:**
+- Keep content related to DBMS theory
+- Use clear headings and organization
+- Include examples where possible
+- Cite sources if using external materials
+
+
+## 📚 Resources
+
+
+### Online Resources
+- [SQLZoo](https://sqlzoo.net/) - Interactive SQL tutorials
+- [DB-Fiddle](https://www.db-fiddle.com/) - Test SQL queries online
+- [W3Schools SQL](https://www.w3schools.com/sql/) - SQL reference
+
+
+
+## 🎓 About
+
+This repository is maintained by [@Samstatix](https://github.com/Samstatix) as a resource for learning DBMS concepts.
+
+
+## 📧 Contact
+
+Have questions or suggestions? Feel free to:
+- Open an issue in this repository
+- Connect on GitHub
+
+
+
+## 📄 License
+
+This repository is for educational purposes. Feel free to use and share with proper attribution.
+
+
+*Note: This repository is actively being updated. Check back regularly for new content!*
