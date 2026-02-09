@@ -2,7 +2,9 @@
 
 A comprehensive collection of Database Management System theory notes and learning materials.
 
-## This repository contains organized notes and documentation on DBMS fundamentals. Topics are structured for easy navigation and reference.
+## 📚 About This Repository
+
+This repository contains organized notes and documentation on DBMS fundamentals. Topics are structured for easy navigation and reference.
 
 ## 📖 Topics
 
@@ -44,7 +46,6 @@ A comprehensive collection of Database Management System theory notes and learni
 
 
 ## 📂 Repository Structure
-
 ```
 dbms-basic-theory/
 ├── README.md                          # This file
@@ -56,7 +57,7 @@ dbms-basic-theory/
 └── examples/                          # Code examples and queries
 ```
 
----
+
 
 ## 🎯 How to Use This Repository
 
@@ -64,7 +65,7 @@ dbms-basic-theory/
 2. **Follow Along**: Topics are organized in logical learning order
 
 
----
+
 
 ## 🤝 Contributing
 
@@ -82,19 +83,13 @@ Contributions are welcome!
 - Cite sources if using external materials
 
 
-## 📚 Resources
-
-
-### Online Resources
-- [SQLZoo](https://sqlzoo.net/) - Interactive SQL tutorials
-- [DB-Fiddle](https://www.db-fiddle.com/) - Test SQL queries online
-- [W3Schools SQL](https://www.w3schools.com/sql/) - SQL reference
 
 
 
 ## 🎓 About
 
 This repository is maintained by [@Samstatix](https://github.com/Samstatix) as a resource for learning DBMS concepts.
+
 
 
 ## 📧 Contact
@@ -108,6 +103,7 @@ Have questions or suggestions? Feel free to:
 ## 📄 License
 
 This repository is for educational purposes. Feel free to use and share with proper attribution.
+
 
 
 *Note: This repository is actively being updated. Check back regularly for new content!*
